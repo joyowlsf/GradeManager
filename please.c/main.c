@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include "student.h"
 
 int main(void)
@@ -23,10 +23,10 @@ int main(void)
 			break;
 		case2:
 			InputDB();
-			break
+			break;
 			
 		case3:
 			return 0;
 		}
 	}
-}*/
+}
