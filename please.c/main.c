@@ -26,7 +26,8 @@ int main(void)
 			break;
 			
 		case3:
-			return 0;
+			exit();
 		}
 	}
+	return 0;
 }
